@@ -1,0 +1,6 @@
+
+streamlit
+python-dotenv
+pandas
+openpyxl    # for Excel reading support
+google-genai
